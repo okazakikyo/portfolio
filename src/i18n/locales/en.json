@@ -1,0 +1,149 @@
+{
+  "header": {
+    "portfolio": "Portfolio 2026",
+    "name": "Lý Vĩnh Phú"
+  },
+  "sidebar": {
+    "social": "Social",
+    "menu": "Menu",
+    "getInTouch": "Get in touch",
+    "home": "Home",
+    "aboutMe": "About Me",
+    "experience": "Experience",
+    "projects": "Projects"
+  },
+  "hero": {
+    "title": "Frontend Developer",
+    "description": "Result-oriented Front-End Developer with 3+ years of experience building high-performance, scalable, and responsive web applications using Vue, React, TypeScript, and Laravel.",
+    "location": "Based in Ho Chi Minh City",
+    "availability": "Open to Frontend / Fullstack roles",
+    "hireMe": "Hire Me",
+    "selectedWork": "Selected Work",
+    "stats": {
+      "years": "Years of experience",
+      "projects": "Highlighted projects",
+      "japaneseEnv": "Japanese working environment"
+    }
+  },
+  "quote": {
+    "text": "I believe in a user‑centered approach, ensuring each product is not only beautiful but also solves real user and business problems."
+  },
+  "about": {
+    "caption": "This is me.",
+    "greeting": "Hi, I'm Phú.",
+    "paragraphs": [
+      "I'm a Front‑End Developer focused on turning complex requirements into smooth, user‑friendly, and practical experiences.",
+      "My strengths lie in Vue, React, TypeScript, and the ability to collaborate with Laravel backends to build dashboards, event platforms, and real‑time applications that can scale long‑term."
+    ]
+  },
+  "stack": {
+    "title": "My Stack",
+    "frontend": "Frontend",
+    "backendApi": "Backend / API",
+    "languagesSoftSkills": "Languages & Soft skills",
+    "groups": [
+      {
+        "title": "Frontend",
+        "items": ["Vue.js", "React", "TypeScript", "JavaScript", "Pinia", "Redux", "Zustand"]
+      },
+      {
+        "title": "Backend / API",
+        "items": ["PHP", "Laravel", "REST API"]
+      },
+      {
+        "title": "Languages & Soft skills",
+        "items": ["English", "Japanese", "Solution-oriented", "Clean code mindset"]
+      }
+    ]
+  },
+  "experience": {
+    "title": "My Experience",
+    "items": [
+      {
+        "period": "08/2025 — 12/2025",
+        "role": "Vue / Laravel / TypeScript Developer",
+        "company": "Project: Toyota Eventech",
+        "summary": "Developed WebView ticketing system, handled seat selection/cancellation, and built custom calendar. The project won Excellent Project of the Year 2025 at MVP BraveSoftJapan."
+      },
+      {
+        "period": "01/2025 — 05/2025",
+        "role": "React / TypeScript Developer",
+        "company": "Project: Live-trans Application",
+        "summary": "Built real‑time translation app using Amazon Transcribe + Socket.IO, optimized component structure, audio flow, and real‑time translated text display."
+      },
+      {
+        "period": "12/2024 — 05/2025",
+        "role": "Vue / Laravel / JavaScript Developer",
+        "company": "Project: BASN",
+        "summary": "Created integration module, custom calendar, and admin dashboard synchronizing ticket status/schedule with third‑party API in real‑time."
+      },
+      {
+        "period": "08/2024 — 12/2024",
+        "role": "Vue / Laravel / JavaScript Developer",
+        "company": "Project: OdakyuOne Eventech",
+        "summary": "Built admin dashboard CRUD, authentication, QR code check‑in using camera, and reusable component system to accelerate development."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Selected Projects",
+    "items": [
+      {
+        "title": "Toyota Eventech",
+        "category": "Vue 3 / Laravel / TypeScript",
+        "description": "Developed WebView for event tracking and ticketing system, handling seat selection, cancellation, viewing, and custom TimeGrid calendar for visual schedule tracking.",
+        "impact": "Excellent Project 2025",
+        "stack": ["Vue 3", "Laravel", "TypeScript", "Calendar UI"]
+      },
+      {
+        "title": "Live-trans Application",
+        "category": "React / TypeScript",
+        "description": "Built responsive real‑time speech‑to‑text translation app with Amazon Transcribe and Socket.IO, using Redux for state management and reusable components for maintainability.",
+        "impact": "Realtime translation",
+        "stack": ["React", "TypeScript", "Redux", "Socket.IO"]
+      },
+      {
+        "title": "BASN / Benesse Art Site Naoshima",
+        "category": "Vue / Laravel / JavaScript",
+        "description": "Developed integration module for Eventos ecosystem, custom calendar displaying ticket status from complex API data, and admin dashboard for real‑time schedule/availability management.",
+        "impact": "Realtime ticket sync",
+        "stack": ["Vue.js", "Laravel", "Admin Dashboard", "API Integration"]
+      },
+      {
+        "title": "OdakyuOne Eventech",
+        "category": "Vue / Laravel / JavaScript",
+        "description": "Built full CRUD admin dashboard, authentication, state management with Pinia, QR check‑in using camera, and reusable component library to accelerate UI development.",
+        "impact": "QR check‑in + Pinia",
+        "stack": ["Vue", "Laravel", "Pinia", "QR Scanner"]
+      }
+    ]
+  },
+  "strengths": {
+    "title": "Core Strengths",
+    "items": [
+      "Developing Vue / React interfaces optimized for performance and user experience",
+      "Building dashboards, admin systems, custom calendars, and reusable UI components",
+      "Connecting frontend with Laravel / real‑time APIs cleanly and extensibly"
+    ]
+  },
+  "footer": {
+    "text": "Have a project in mind?",
+    "email": "lyvinhphu98@gmail.com"
+  },
+  "stats": [
+    { "value": "3+", "label": "Years of experience" },
+    { "value": "4", "label": "Highlighted projects" },
+    { "value": "JP Env", "label": "Japanese working environment" }
+  ],
+  "socials": [
+    { "label": "github", "href": "https://github.com/" },
+    { "label": "linkedin", "href": "https://www.linkedin.com/in/ly-vinh-phu-9b17231b8/" },
+    { "label": "email", "href": "mailto:lyvinhphu98@gmail.com" }
+  ],
+  "menuItems": [
+    { "label": "Home", "href": "#home" },
+    { "label": "About Me", "href": "#about" },
+    { "label": "Experience", "href": "#experience" },
+    { "label": "Projects", "href": "#projects" }
+  ]
+}

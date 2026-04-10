@@ -1,0 +1,149 @@
+{
+  "header": {
+    "portfolio": "Portfolio 2026",
+    "name": "Lý Vĩnh Phú"
+  },
+  "sidebar": {
+    "social": "Mạng xã hội",
+    "menu": "Menu",
+    "getInTouch": "Liên hệ",
+    "home": "Trang chủ",
+    "aboutMe": "Giới thiệu",
+    "experience": "Kinh nghiệm",
+    "projects": "Dự án"
+  },
+  "hero": {
+    "title": "Frontend Developer",
+    "description": "Result-oriented Front-End Developer với 3+ năm kinh nghiệm xây dựng web app hiệu năng cao, scalable và responsive bằng Vue, React, TypeScript và Laravel.",
+    "location": "Đang sống tại Thành phố Hồ Chí Minh",
+    "availability": "Sẵn sàng cho vị trí Frontend / Fullstack",
+    "hireMe": "Thuê tôi",
+    "selectedWork": "Công việc đã chọn",
+    "stats": {
+      "years": "Năm kinh nghiệm",
+      "projects": "Dự án nổi bật",
+      "japaneseEnv": "Môi trường làm việc tiếng Nhật"
+    }
+  },
+  "quote": {
+    "text": "Mình tin vào hướng tiếp cận lấy người dùng làm trung tâm, để mỗi sản phẩm không chỉ đẹp mà còn giải quyết đúng vấn đề của người dùng và business."
+  },
+  "about": {
+    "caption": "Đây là tôi.",
+    "greeting": "Xin chào, tôi là Phú.",
+    "paragraphs": [
+      "Mình là Front‑End Developer tập trung vào việc biến các yêu cầu phức tạp thành trải nghiệm mượt, dễ dùng và giàu tính thực tế.",
+      "Thế mạnh của mình nằm ở Vue, React, TypeScript cùng khả năng phối hợp với backend Laravel để xây dựng dashboard, event platform và ứng dụng realtime có thể scale lâu dài."
+    ]
+  },
+  "stack": {
+    "title": "Kỹ năng",
+    "frontend": "Frontend",
+    "backendApi": "Backend / API",
+    "languagesSoftSkills": "Languages & Soft skills",
+    "groups": [
+      {
+        "title": "Frontend",
+        "items": ["Vue.js", "React", "TypeScript", "JavaScript", "Pinia", "Redux", "Zustand"]
+      },
+      {
+        "title": "Backend / API",
+        "items": ["PHP", "Laravel", "REST API"]
+      },
+      {
+        "title": "Languages & Soft skills",
+        "items": ["English", "Japanese", "Solution-oriented", "Clean code mindset"]
+      }
+    ]
+  },
+  "experience": {
+    "title": "Kinh nghiệm",
+    "items": [
+      {
+        "period": "08/2025 — 12/2025",
+        "role": "Vue / Laravel / TypeScript Developer",
+        "company": "Dự án: Toyota Eventech",
+        "summary": "Phát triển WebView ticketing, xử lý đặt/chọn/hủy ghế và xây custom calendar. Dự án đạt giải Excellent Project of the Year 2025 tại MVP BraveSoftJapan."
+      },
+      {
+        "period": "01/2025 — 05/2025",
+        "role": "React / TypeScript Developer",
+        "company": "Dự án: Live-trans Application",
+        "summary": "Xây ứng dụng dịch realtime bằng Amazon Transcribe + Socket.IO, tối ưu cấu trúc component, luồng ghi âm và hiển thị translated text theo thời gian thực."
+      },
+      {
+        "period": "12/2024 — 05/2025",
+        "role": "Vue / Laravel / JavaScript Developer",
+        "company": "Dự án: BASN",
+        "summary": "Tạo integration module, custom calendar và admin dashboard đồng bộ trạng thái vé / schedule với API bên thứ ba theo thời gian thực."
+      },
+      {
+        "period": "08/2024 — 12/2024",
+        "role": "Vue / Laravel / JavaScript Developer",
+        "company": "Dự án: OdakyuOne Eventech",
+        "summary": "Xây admin dashboard CRUD, authentication, QR code check‑in bằng camera và reusable component system giúp tăng tốc phát triển."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Dự án đã chọn",
+    "items": [
+      {
+        "title": "Toyota Eventech",
+        "category": "Vue 3 / Laravel / TypeScript",
+        "description": "Phát triển WebView cho hệ thống tracking sự kiện và ticketing, xử lý seat selection, cancellation, viewing và custom TimeGrid calendar để theo dõi lịch trình trực quan hơn.",
+        "impact": "Excellent Project 2025",
+        "stack": ["Vue 3", "Laravel", "TypeScript", "Calendar UI"]
+      },
+      {
+        "title": "Live-trans Application",
+        "category": "React / TypeScript",
+        "description": "Xây ứng dụng responsive dịch speech‑to‑text theo thời gian thực với Amazon Transcribe và Socket.IO, dùng Redux để quản lý state và reusable components để tối ưu maintainability.",
+        "impact": "Realtime translation",
+        "stack": ["React", "TypeScript", "Redux", "Socket.IO"]
+      },
+      {
+        "title": "BASN / Benesse Art Site Naoshima",
+        "category": "Vue / Laravel / JavaScript",
+        "description": "Phát triển module tích hợp Eventos ecosystem, custom calendar hiển thị ticket status theo dữ liệu API phức tạp và admin dashboard để quản lý schedule / availability theo thời gian thực.",
+        "impact": "Realtime ticket sync",
+        "stack": ["Vue.js", "Laravel", "Admin Dashboard", "API Integration"]
+      },
+      {
+        "title": "OdakyuOne Eventech",
+        "category": "Vue / Laravel / JavaScript",
+        "description": "Xây admin dashboard full CRUD, authentication, quản lý state với Pinia, QR check‑in bằng camera và bộ reusable components để tăng tốc phát triển giao diện.",
+        "impact": "QR check‑in + Pinia",
+        "stack": ["Vue", "Laravel", "Pinia", "QR Scanner"]
+      }
+    ]
+  },
+  "strengths": {
+    "title": "Điểm mạnh",
+    "items": [
+      "Phát triển giao diện Vue / React tối ưu hiệu năng và trải nghiệm người dùng",
+      "Xây dashboard, admin system, lịch tùy biến và UI component tái sử dụng",
+      "Kết nối frontend với backend Laravel / API realtime sạch và dễ mở rộng"
+    ]
+  },
+  "footer": {
+    "text": "Có dự định nào không?",
+    "email": "lyvinhphu98@gmail.com"
+  },
+  "stats": [
+    { "value": "3+", "label": "Năm kinh nghiệm" },
+    { "value": "4", "label": "Dự án nổi bật" },
+    { "value": "JP Env", "label": "Môi trường làm việc tiếng Nhật" }
+  ],
+  "socials": [
+    { "label": "github", "href": "https://github.com/" },
+    { "label": "linkedin", "href": "https://www.linkedin.com/in/ly-vinh-phu-9b17231b8/" },
+    { "label": "email", "href": "mailto:lyvinhphu98@gmail.com" }
+  ],
+  "menuItems": [
+    { "label": "Trang chủ", "href": "#home" },
+    { "label": "Giới thiệu", "href": "#about" },
+    { "label": "Kinh nghiệm", "href": "#experience" },
+    { "label": "Dự án", "href": "#projects" }
+  ]
+}
